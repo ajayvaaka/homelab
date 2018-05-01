@@ -1,0 +1,23 @@
+
+
+{
+
+ 
+    "QA":[{
+            "vc":"vCenter Appliance FQDN",
+            "user":"user",
+            "passsword":"password",
+            "ADVM":"Jumpbox fqdn",
+            "ADuser":"username",
+            "ADpassword":"password",
+            "computeraccount":[
+                                "psc",
+                                "vcenter"
+                             ],
+            "path":"OU=ESX,OU=EOSOCustomer,OU=Resources,DC=Devad,DC=ford,DC=com"
+
+
+            }]
+
+
+}
